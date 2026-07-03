@@ -3,6 +3,10 @@
 ## 📌 Overview
 CropCast is a data analysis project focused on understanding agricultural production patterns using historical crop data from Tamil Nadu. The project analyzes crop productivity, seasonal performance, and year-wise production trends through data preprocessing and visualization.
 
+## 📝 Note
+
+The dataset used in this project was preprocessed and transformed through data cleaning and feature engineering. Derived features were created to improve agricultural analysis and visualization.
+
 ## 🎯 Objectives
 - Analyze crop production trends.
 - Compare seasonal agricultural performance.
